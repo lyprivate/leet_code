@@ -9,7 +9,6 @@ package com.xiongxinqiang;
 public class Solution {
 
 
-
 }
 
 
