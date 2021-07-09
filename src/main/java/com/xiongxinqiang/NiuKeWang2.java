@@ -12,6 +12,8 @@ import java.util.concurrent.*;
  */
 public class NiuKeWang2 {
 
+
+
     public static void main(String[] args) {
 //        transport();
         tlv();
