@@ -30,7 +30,7 @@ package com.xiongxinqiang.leetcode.array.easy;
 public class _121_BestTimeToBuyAndSellStock {
 
 
-
+        
 
     public static void main(String[] args) {
 //        int[] prices = new int[]{2, 4, 1};
