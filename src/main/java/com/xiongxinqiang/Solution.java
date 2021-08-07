@@ -1,6 +1,8 @@
 package com.xiongxinqiang;
 
 
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @author xiongxinqiang
@@ -9,8 +11,9 @@ package com.xiongxinqiang;
  */
 public class Solution {
 
+    public static void main(String[] args) {
 
-
+    }
 }
 
 
